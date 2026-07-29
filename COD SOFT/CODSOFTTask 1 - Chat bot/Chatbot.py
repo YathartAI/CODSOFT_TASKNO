@@ -111,7 +111,9 @@ while True:
         show_welcome() 
 
     elif user_input in ["bye", "exit", "quit"]:
-        print("Bot: Goodbye! Have a great day! 👋")
+        print("\nBot: Goodbye! Have a wonderful day. 👋")
+        print("\n" + "=" * 60)
+        print("        Thank you for using AI Chatbot 🤖")
+        print("          Developed by Yatharth Singhal")
+        print("=" * 60)
         break
-    else:
-        print("Bot: Sorry, I don't understand that. Please try one of the shown options.")
