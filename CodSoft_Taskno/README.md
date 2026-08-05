@@ -1,62 +1,108 @@
-# 🤖 CODSOFT Python Internship Projects
+# 🤖 CODSOFT AI Internship Projects
 
-This repository contains my completed Python internship projects submitted as part of the **CodSoft Virtual Internship**.
+Welcome to my CodSoft Artificial Intelligence Internship repository.
 
-## 📂 Projects
-
-### ✅ Task 1 — AI Chatbot
-- Interactive chatbot built using Python
-- Greetings and conversation
-- Date & Time
-- Motivational Quotes
-- Jokes
-- User-friendly interface
-
-📁 Folder:
-```
-CODSOFT TASK 1 - CHAT BOT
-```
+This repository contains all the projects I developed during my AI Virtual Internship at **CodSoft**.
 
 ---
 
-### ✅ Task 2 — Tic Tac Toe AI
-
-An unbeatable Tic Tac Toe game built with Python using the **Minimax Algorithm**.
-
-#### Features
-- Play against AI
-- Minimax Algorithm
-- Draw detection
-- Win detection
-- Play Again option
-- Clean terminal interface
-
-📁 Folder:
-```
-CODSOFT TASK 2 - tic_tac_toe
-```
-
----
-
-## 🛠️ Technologies
-
-- Python
-- VS Code
-- Git
-- GitHub
-
----
 
 ## 👨‍💻 Developer
 
 **Yatharth Singhal**
 
-🔗 GitHub  
-https://github.com/YathartAI
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/yatharth-singhal-ai/
+🎓 B.Tech CSE (Artificial Intelligence) Student  
+🏫 Galgotias University
 
 ---
 
-⭐ If you like this repository, don't forget to star it.
+
+## 🚀 Projects
+
+### ✅ Task 1 – AI Chatbot
+A Python chatbot capable of answering basic queries, greetings, jokes, motivational quotes, date & time, and more.
+
+**Technologies**
+- Python
+- Functions
+- Loops
+- Conditional Statements
+
+---
+
+### ✅ Task 2 – Tic Tac Toe AI
+A console-based Tic Tac Toe game where two players can play with winner detection and replay functionality.
+
+**Technologies**
+- Python
+- Lists
+- Functions
+- Game Logic
+
+---
+
+### ✅ Task 3 – AI Course Recommendation System
+A smart recommendation system that suggests learning resources based on the user's selected interest.
+
+Available Categories include:
+- Python
+- AI
+- Machine Learning
+- Data Science
+- Web Development
+- Cyber Security
+- Cloud Computing
+- Java
+- C
+- C++
+- SQL
+- Database
+- Android
+- Git & GitHub
+- Linux
+- DevOps
+- UI/UX
+- Blockchain
+- And more...
+
+**Technologies**
+- Python
+- Dictionaries
+- Lists
+- Loops
+- User Input
+- Recommendation Logic
+
+---
+
+
+## 🛠️ Technologies Used
+
+- Python
+- Git
+- GitHub
+- VS Code
+
+---
+
+
+## 📌 Internship
+
+Organization: **CodSoft**
+
+Role: **Artificial Intelligence Virtual Intern**
+
+---
+
+## 🌟 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/yatharth-singhal-ai/
+
+💻 GitHub  
+https://github.com/YathartAI
+
+---
+
+⭐ If you like this repository, don't forget to Star it!
+❤️ Thank you So Much...!!
